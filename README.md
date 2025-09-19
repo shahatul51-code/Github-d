@@ -17,3 +17,4 @@ chmod +x simple-interest.sh
 ```
 
 Follow the prompts to enter principal, rate, and time to calculate simple interest.
+Changes happened toforked repository.
